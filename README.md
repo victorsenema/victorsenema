@@ -1,6 +1,3 @@
-<p align="center">
-  Computer Science Student at UFU
-</p>
 
 
 ## About Me
