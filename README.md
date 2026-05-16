@@ -1,9 +1,7 @@
-<h1 align="center">Victor Senema</h1>
 <p align="center">
-  Computer Science Student at UFU • Computer Vision • Data Analysis
+  Computer Science Student at UFU
 </p>
 
----
 
 ## About Me
 
@@ -11,7 +9,6 @@ I am graduating in Computer Science at UFU – Universidade Federal de Uberlând
 I am interested in computer vision and data analysis.  
 Currently, I am working on my capstone project: a Blender extension that assists in the retopology of 3D head models.
 
----
 
 ## Socials
 
@@ -21,7 +18,6 @@ Currently, I am working on my capstone project: a Blender extension that assists
   </a>
 </p>
 
----
 
 ## Programming Languages
 
@@ -31,8 +27,6 @@ Currently, I am working on my capstone project: a Blender extension that assists
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
----
-
 ## Tools
 
 <p align="left">
@@ -40,7 +34,6 @@ Currently, I am working on my capstone project: a Blender extension that assists
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
----
 
 ## Databases
 
