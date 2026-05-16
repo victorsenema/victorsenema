@@ -5,8 +5,8 @@
 
 ## About Me
 
-I am graduating in Computer Science at UFU – Universidade Federal de Uberlândia.  
-I am interested in computer vision and data analysis.  
+Graduating Computer Science at UFU – Universidade Federal de Uberlândia.  
+Interested in computer vision and data analysis.  
 Currently, I am working on my capstone project: a Blender extension that assists in the retopology of 3D head models.
 
 
