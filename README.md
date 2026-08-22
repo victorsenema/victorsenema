@@ -15,9 +15,9 @@
 
 ## About Me
 
-Undergraduate Computer Science student at **UFU — Universidade Federal de Uberlândia**, focused on **computer vision**, **3D geometry processing** and **machine learning**.
+Undergraduate Computer Science student at **UFU — Universidade Federal de Uberlândia**, focused on **computer vision** and **machine learning**.
 
-I'm currently building my capstone project: a Blender extension that automates the retopology of 3D head models — turning dense, hard-to-edit scan meshes into clean, animation-ready quad topology.
+I'm currently building my capstone project: a Blender extension that automates the retopology of 3D head models that turns dense, hard-to-edit meshes into clean, animation-ready quad topology.
 
 **Spoken languages:** Portuguese (native) &nbsp;·&nbsp; English (advanced)
 
