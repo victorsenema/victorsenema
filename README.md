@@ -90,5 +90,3 @@ A Blender add-on that fits a clean quad template onto a 3D head mesh, so the art
 | :--- | :--- |
 | **[License-Plate-Recognizer](https://github.com/victorsenema/License-Plate-Recognizer)** | License plate detection and recognition pipeline. The model was trained on a public dataset, but every plate was **labelled manually** to build the training set, and the whole training run was done locally on my own machine. |
 | **[Math-Expression-Interpreter](https://github.com/victorsenema/Math-Expression-Interpreter)** | An interpreter for mathematical expressions written in **C** — it tokenizes, parses and evaluates arithmetic expressions from scratch. |
-| **[Learning-Pytorch](https://github.com/victorsenema/Learning-Pytorch)** | Notebooks working through deep learning fundamentals in PyTorch. |
-| **[Faculdade](https://github.com/victorsenema/Faculdade)** | Coursework and assignments from my Computer Science degree, mostly in C. |
