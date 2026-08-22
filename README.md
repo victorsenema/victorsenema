@@ -29,17 +29,15 @@ I'm currently building my capstone project: a Blender extension that automates t
   <img src="assets/retopology-demo.gif" width="720" alt="Blender Retopology Extension — fitting a quad template onto a 3D head model" />
 </p>
 
-A Blender add-on that fits a clean, hand-authored quad template onto an arbitrary 3D head mesh, so the artist ends up with usable topology without retopologizing by hand.
+A Blender add-on that fits a clean quad template onto a 3D head mesh, so the artist ends up with usable topology without retopologizing by hand.
 
 **How the fitting works**
 
-- **Critical points.** The user places a fixed set of anatomical landmarks on the target head — eye corners, nostrils, lip contour, jawline. A symmetry solver mirrors each point across the X axis, so only one half has to be placed manually.
+- **Critical points.** The user marks the critical regions that define the mesh's edge loops — mouth, eyes, nose, jawline. A symmetry solver mirrors them across the X axis, so only one half is placed by hand.
 
-- **Thin Plate Spline warp.** Every landmark on the target is paired with its counterpart on the template. A **Thin Plate Spline (TPS)** deformation takes those pairs as control points and smoothly interpolates the transformation across all remaining vertices — so the template genuinely bends into the target's proportions instead of being uniformly scaled onto it.
+- **Thin Plate Spline warp.** Each critical point is paired with its counterpart on the template, and a **Thin Plate Spline (TPS)** deformation interpolates the warp across every remaining vertex — bending the template into the target's proportions instead of just scaling it.
 
-- **Built on Blender's native toolset.** After the warp, the add-on drives Blender's own modifiers rather than reimplementing geometry algorithms: **Shrinkwrap** projects the template onto the target surface and **Subdivision Surface** controls mesh density. Everything stays non-destructive until the artist explicitly bakes the result.
-
-- **Mesh relaxation.** A final smoothing pass evens out edge lengths and face areas across the fitted mesh, resolving the stretching and pinching the warp leaves behind while keeping the vertices anchored to the target surface.
+- **Blender's native toolset.** The fit is finished with Blender's own functions, such as **Shrinkwrap** and **Subdivision Surface**.
 
 > The repository is still private — it will be published once the project is organized.
 
