@@ -25,6 +25,8 @@ I'm currently building my capstone project: a Blender extension that automates t
 
 ## Featured Project — Blender Retopology Extension
 
+**[Blender_Retopology_Extension](https://github.com/victorsenema/Blender_Retopology_Extension)**
+
 <p align="center">
   <img src="assets/retopology-demo.gif" width="720" alt="Blender Retopology Extension — fitting a quad template onto a 3D head model" />
 </p>
@@ -38,8 +40,6 @@ A Blender add-on that fits a clean quad template onto a 3D head mesh, so the art
 - **Thin Plate Spline warp.** Each critical point is paired with its counterpart on the template, and a **Thin Plate Spline (TPS)** deformation interpolates the warp across every remaining vertex, bending the template into the target's proportions instead of just scaling it.
 
 - **Blender's native toolset.** The fit is finished with Blender's own functions, such as **Shrinkwrap** and **Subdivision Surface**.
-
-> The repository is still private — it will be published once the project is organized.
 
 <br>
 
