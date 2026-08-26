@@ -33,9 +33,9 @@ A Blender add-on that fits a clean quad template onto a 3D head mesh, so the art
 
 **How the fitting works**
 
-- **Critical points.** The user marks the critical regions that define the mesh's edge loops — mouth, eyes, nose, jawline. A symmetry solver mirrors them across the X axis, so only one half is placed by hand.
+- **Critical points.** The user marks the critical regions that define the mesh's edge loops: mouth, eyes, nose, jawline. A symmetry solver mirrors them across the X axis, so only one half is placed by hand.
 
-- **Thin Plate Spline warp.** Each critical point is paired with its counterpart on the template, and a **Thin Plate Spline (TPS)** deformation interpolates the warp across every remaining vertex — bending the template into the target's proportions instead of just scaling it.
+- **Thin Plate Spline warp.** Each critical point is paired with its counterpart on the template, and a **Thin Plate Spline (TPS)** deformation interpolates the warp across every remaining vertex, bending the template into the target's proportions instead of just scaling it.
 
 - **Blender's native toolset.** The fit is finished with Blender's own functions, such as **Shrinkwrap** and **Subdivision Surface**.
 
