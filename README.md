@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Computer Science student - UFU</b><br>
-  "Education changes people, and it is these educated and socially conscious individuals who, in turn, transform the world."<br>
+  "Education does not change the world. Education changes people. People change the world."<br>
   Enthusiast on Computer Vision &nbsp;·&nbsp; Computer Graphics &nbsp;·&nbsp; Machine Learning
 </p>
 
