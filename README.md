@@ -23,6 +23,7 @@ Undergraduate Computer Science student at **UFU — Universidade Federal de Uber
 - Studying Computer Graphics
 - Reviewing Database Systems
 - Fulfilling a personal dream: developing a roguelike game (this one will take a looong time)
+<br>
 
 **Spoken languages:** Portuguese (native) &nbsp;·&nbsp; English (advanced)
 
