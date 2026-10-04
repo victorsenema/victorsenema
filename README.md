@@ -1,8 +1,9 @@
 <h1 align="center">Victor Gava Senema</h1>
 
 <p align="center">
-  <b>Computer Science student @ UFU</b><br>
-  Computer Vision &nbsp;·&nbsp; 3D Geometry Processing &nbsp;·&nbsp; Machine Learning
+  <b>Computer Science student - UFU</b><br>
+  "Education changes people, and it is these educated and socially conscious individuals who, in turn, transform the world."<br>
+  Enthusiast on Computer Vision &nbsp;·&nbsp; Computer Graphics &nbsp;·&nbsp; Machine Learning
 </p>
 
 <p align="center">
@@ -15,9 +16,13 @@
 
 ## About Me
 
-Undergraduate Computer Science student at **UFU — Universidade Federal de Uberlândia**, focused on **computer vision** and **machine learning**.
+Undergraduate Computer Science student at **UFU — Universidade Federal de Uberlândia**, focused on learning (but I like computer vision, machine learning and computer graphics).
 
-I'm currently building my capstone project: a Blender extension that automates the retopology of 3D head models that turns dense, hard-to-edit meshes into clean, animation-ready quad topology.
+### What I'm doing right now
+- Building my capstone project: a Blender extension that automates the retopology of 3D head models, turning dense, hard-to-edit meshes into clean, animation-ready quad topology (almost done)
+- Studying Computer Graphics
+- Reviewing Database Systems
+- Fulfilling a personal dream: developing a roguelike game (this one will take a looong time)
 
 **Spoken languages:** Portuguese (native) &nbsp;·&nbsp; English (advanced)
 
