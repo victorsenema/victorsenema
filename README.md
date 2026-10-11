@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Computer Science student - UFU</b><br>
-  "Education does not change the world. Education changes people. People change the world."<br>
+  "Education does not change the world. Education changes people. People change the world." — Paulo Freire<br>
   Enthusiast on Computer Vision &nbsp;·&nbsp; Computer Graphics &nbsp;·&nbsp; Machine Learning
 </p>
 
@@ -19,6 +19,7 @@
 Undergraduate Computer Science student at **UFU — Universidade Federal de Uberlândia**, focused on learning (but I like computer vision, machine learning and computer graphics).
 
 ### What I'm doing right now
+- Digital Image Processing Teaching Assistantship
 - Building my capstone project: a Blender extension that automates the retopology of 3D head models, turning dense, hard-to-edit meshes into clean, animation-ready quad topology (almost done)
 - Studying Computer Graphics
 - Reviewing Database Systems
