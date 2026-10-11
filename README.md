@@ -16,7 +16,9 @@
 
 ## About Me
 
-Undergraduate Computer Science student at **UFU — Universidade Federal de Uberlândia**, focused on learning (but I like computer vision, machine learning and computer graphics).
+Undergraduate Computer Science student at **UFU — Universidade Federal de Uberlândia**.<br>
+I'm interested in computer vision, machine learning and computer graphics, but what really drives me is learning.<br>
+If it involves learning something new or leveling up my skills, count me in!<br>
 
 ### What I'm doing right now
 - Digital Image Processing Teaching Assistantship
